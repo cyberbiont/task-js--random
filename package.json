@@ -1,6 +1,7 @@
 {
-	"name": "task-js-random-solution",
-	"version": "1.0.0",
-	"description": "",
-	"main": "task/task.js"
+  "name": "task-js-random-primer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task/task.js",
+  "keywords": []
 }
