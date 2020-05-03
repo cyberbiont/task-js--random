@@ -1,6 +1,7 @@
 function taskFn(min, max) {
-	let rand = min + Math.random() * (max + 1 - min);
-  return Math.floor(rand);
+	// Your code here
+	let random = min + Math.random() * (max - min + 1);
+	return Math.floor(random);
 	// Your code here
 }
 
