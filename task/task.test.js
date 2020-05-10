@@ -1,5 +1,5 @@
-import sut from './task.js';
+import sut from "./task.js";
 
-it('returns null', function () {
+it("returns null", function () {
 	expect(sut()).toBeNull();
 });
